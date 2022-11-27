@@ -1,0 +1,9 @@
+{
+  "name": "forum-standby"
+  "collect-data": "find-user-data"
+  "bbcode-on": "no"
+ },
+  "forum-bbcode-dependencies": {
+    "express-data-dependencies": "~2.14.6"
+    "collect-data-dependencies": "~3.78.3"
+ }
